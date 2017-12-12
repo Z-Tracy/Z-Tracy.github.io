@@ -19,11 +19,11 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-#zhihu_username:     
+# zhihu_username:     
 github_username:    username
 facebook_username:  username
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# jianshu_username:   e71990ada2fd
+# twitter_username:   qiubaiying
 
 
 
@@ -53,7 +53,7 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
+  
 # 评论系统
 # Disqus settings（https://disqus.com/）
 disqus_username: ZlyTracy
@@ -69,7 +69,7 @@ disqus_username: ZlyTracy
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 Google Analytics
 ga_track_id: 'UA-104085263-1'            # Format: UA-xxxxxx-xx
