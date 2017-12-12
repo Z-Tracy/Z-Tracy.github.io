@@ -1,4 +1,15 @@
-
+---
+layout:     post
+title:      Solving A Simple Classification Problem with Python Fruits Lovers’ Edition
+subtitle:   得到
+date:       2017-12-06
+author:     Z-Tracy
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - PYTHON
+    - 数据挖掘
+---
 本文为译文
 - 原文链接：https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2
 - 原作者：Susan Li  
