@@ -11,14 +11,12 @@ tags:
     - 数据挖掘
 	- 文本分析
 ---
+- 参考文档:http://www.tipdm.org/u/cms/www/201511/23155400syj0.pdf
 ```python
 # -*- coding:utf-8 -*-
 import pandas as pd
 import numpy as np
 ```
-
-- 参考文档:http://www.tipdm.org/u/cms/www/201511/23155400syj0.pdf
-
 #### 评论预处理-文本去重
   1. 剔除大量无价值的词
   2. 文本去重，去除平台默认评价的词；同一用户重复评价了多条相同评价；
