@@ -4,7 +4,7 @@ title:      Solving A Simple Classification Problem with Python Fruits Lovers’
 subtitle:   得到
 date:       2017-12-06
 author:     Z-Tracy
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-mma-2.jpg
 catalog: true
 tags:
     - PYTHON
