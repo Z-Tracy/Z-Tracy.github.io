@@ -2,7 +2,7 @@
 layout:     post
 title:      Python for Data  Exploration(1)
 subtitle:   数据探索
-date:       2017-12-06
+date:       2017-12-16
 author:     z-Tracy
 header-img: img/post-bg-ioses.jpg
 catalog: true
