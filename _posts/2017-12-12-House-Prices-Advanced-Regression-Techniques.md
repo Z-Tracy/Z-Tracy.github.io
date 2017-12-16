@@ -15,7 +15,6 @@ tags:
 - 本文源自kaggle中房价预测的一个非常高票的策略，原文作者是Pedro Marceino
 - 原文地址:https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python/notebook
 
-https://www.leiphone.com/news/201704/Py7Mu3TwRF97pWc7.html
 
 - <font color ='orange'>本文的命题是通过79个解释性变量预测每个住宅的最终价格</font>
 
