@@ -9,8 +9,8 @@ catalog: true
 tags:
     - PYTHON
     - 数据挖掘
-	- 数据探索
-	- Pandas
+    - 数据探索
+    - Pandas
 ---
 
 
