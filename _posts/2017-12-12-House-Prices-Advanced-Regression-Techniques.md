@@ -711,36 +711,6 @@ res = stats.probplot(df_train['TotalBsmtSF'],plot=plt)
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    ValueError                                Traceback (most recent call last)
-
-    <ipython-input-53-d04b49a0c9e5> in <module>()
-    ----> 1 sns.distplot(df_train['TotalBsmtSF'],fit=norm)
-          2 fig = plt.figure()
-          3 res = stats.probplot(df_train['TotalBsmtSF'],plot=plt)
-    
-
-    D:\Anaconda3\lib\site-packages\seaborn\distributions.py in distplot(a, bins, hist, kde, rug, fit, hist_kws, kde_kws, rug_kws, fit_kws, color, vertical, norm_hist, axlabel, label, ax)
-        207     if hist:
-        208         if bins is None:
-    --> 209             bins = min(_freedman_diaconis_bins(a), 50)
-        210         hist_kws.setdefault("alpha", 0.4)
-        211         hist_kws.setdefault("normed", norm_hist)
-    
-
-    D:\Anaconda3\lib\site-packages\seaborn\distributions.py in _freedman_diaconis_bins(a)
-         33         return int(np.sqrt(a.size))
-         34     else:
-    ---> 35         return int(np.ceil((a.max() - a.min()) / h))
-         36 
-         37 
-    
-
-    ValueError: cannot convert float NaN to integer
-
-
-
 ![png](http://op1xwtboy.bkt.clouddn.com/House%20Prices/output_53_1.png)
 
 
