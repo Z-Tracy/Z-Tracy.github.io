@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Titanic Data Science Solutions By Python
-subtitle:   Titanic: Machine Learning from Disaster/Predict survival on the Titanic and get familiar with ML basics
+subtitle:   Titanic: Machine Learning from Disaster Predict survival on the Titanic and get familiar with ML basics
 date:       2017-12-19
 author:     z-Tracy
 header-img: img/post-bg-desk.jpg
